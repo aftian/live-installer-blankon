@@ -1,1 +1,3 @@
-/etc/init.d/live-installer /etc/init.d/
+etc/* /etc/
+usr/* /usr/
+slideshow/usr/share/* /usr/share/
