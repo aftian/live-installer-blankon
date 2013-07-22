@@ -1,3 +1,10 @@
+live-installer-blankon (0.0.3) suroboyo; urgency=low
+
+  * debian/dir added /etc/ini.d
+  * remove debian/install
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 23 Jul 2013 00:31:49 +0700
+
 live-installer-blankon (0.0.2) suroboyo; urgency=low
 
   * Added debian/install

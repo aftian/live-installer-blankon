@@ -1,3 +1,4 @@
+etc/init.d
 etc/live-installer
 usr/bin
 usr/lib/live-installer/frontend
