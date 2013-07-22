@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a derivative work based on the Debian logo  -->
+
+<!-- Copyleft: SZERVAC Attila - sas - @ 321.hu -->
+
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0.0000000"
+   y="0.0000000"
+   width="48"
+   height="48"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="blankon-oi.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="131.12121"
+     inkscape:cy="7.7539262"
+     inkscape:window-width="1016"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:current-layer="svg1"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 60 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 60 : 1"
+       inkscape:persp3d-origin="50 : 40 : 1"
+       id="perspective21" />
+    <defs
+       id="defs829" />
+  </defs>
+  <metadata
+     id="metadata954">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3395"
+     transform="matrix(0.70716073,0,0,0.78037456,-126.4225,-124.31044)"
+     inkscape:export-filename="/tmp/gnome-icon-theme/debian/logo.png"
+     inkscape:export-xdpi="1709.36"
+     inkscape:export-ydpi="1709.36">
+    <path
+       inkscape:export-ydpi="285.01001"
+       inkscape:export-xdpi="285.01001"
+       inkscape:export-filename="/home/mdamt/rect4269.png"
+       inkscape:connector-curvature="0"
+       id="path3497-0"
+       d="m 228.62253,190.11774 c 0,11.40027 -9.24174,20.64202 -20.64205,20.64202 -11.40025,0 -20.64199,-9.24175 -20.64199,-20.64202 0,-11.40027 9.24174,-20.64202 20.64199,-20.64202 11.40031,0 20.64205,9.24175 20.64205,20.64202 z"
+       style="fill:none;stroke:#000000;stroke-width:10.60067558;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="285.01001"
+       inkscape:export-xdpi="285.01001"
+       inkscape:connector-curvature="0"
+       id="rect4269-4"
+       d="m 237.87123,169.15378 0.48451,0 0,44.30357 -0.48451,0 z"
+       style="fill:#aa0000;fill-opacity:1;stroke:#ff0000;stroke-width:8.62159538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+  </g>
+</svg>

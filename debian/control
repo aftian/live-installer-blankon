@@ -1,0 +1,17 @@
+Source: live-installer-blankon
+Section: admin
+Priority: optional
+Maintainer: Rahman Yusri Aftian <aftian@di.blankon.in>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: live-installer-blankon
+Architecture: all
+Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2, python-parted, python-webkit, gparted, inxi, python-geoip, python-qt4, python-opencv, python-numpy, imagemagick
+Description: BlankOn Live Installer
+ A BlankOn live installer
+
+Package: live-installer-slideshow-blankon
+Architecture: all
+Description: BlankOn Live Installer Slideshow
+ A BlankOn slideshow for the live installer
