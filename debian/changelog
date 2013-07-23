@@ -1,3 +1,9 @@
+live-installer-blankon (0.0.7) suroboyo; urgency=low
+
+  * Added depends python-imaging debian/control
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 23 Jul 2013 22:33:00 +0700
+
 live-installer-blankon (0.0.6) suroboyo; urgency=low
 
   * Added po
