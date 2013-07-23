@@ -1,3 +1,10 @@
+live-installer-blankon (0.0.8) suroboyo; urgency=low
+
+  * Change path filesystem
+  * Scale logo
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 23 Jul 2013 23:13:56 +0700
+
 live-installer-blankon (0.0.7) suroboyo; urgency=low
 
   * Added depends python-imaging debian/control
