@@ -1,3 +1,9 @@
+live-installer-blankon (0.0.6) suroboyo; urgency=low
+
+  * Added po
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 23 Jul 2013 12:09:39 +0700
+
 live-installer-blankon (0.0.5) suroboyo; urgency=low
 
   *  Change generic rules
