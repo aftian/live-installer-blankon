@@ -1,3 +1,9 @@
+live-installer-blankon (0.0.10) suroboyo; urgency=low
+
+  * Change welcome Development branch
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 23 Jul 2013 23:44:31 +0700
+
 live-installer-blankon (0.0.9) suroboyo; urgency=low
 
   * Change desktop.png (application)
