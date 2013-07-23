@@ -1,3 +1,9 @@
+live-installer-blankon (0.0.13) suroboyo; urgency=low
+
+  * Fix path giant.html
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 24 Jul 2013 00:16:01 +0700
+
 live-installer-blankon (0.0.12) suroboyo; urgency=low
 
   * Change bullet-point.png
