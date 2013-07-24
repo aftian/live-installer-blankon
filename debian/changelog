@@ -1,3 +1,9 @@
+live-installer-blankon (0.0.14) suroboyo; urgency=low
+
+  * Added grub-mkconfig
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 24 Jul 2013 12:26:41 +0700
+
 live-installer-blankon (0.0.13) suroboyo; urgency=low
 
   * Fix path giant.html
