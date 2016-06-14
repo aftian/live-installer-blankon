@@ -1,3 +1,9 @@
+live-installer-blankon (0.0.15) tambora; urgency=medium
+
+  * New Upstream Release  
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 14 Jun 2016 20:15:36 +0700
+
 live-installer-blankon (0.0.14) suroboyo; urgency=low
 
   * Added grub-mkconfig

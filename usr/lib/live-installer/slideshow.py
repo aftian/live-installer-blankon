@@ -11,14 +11,13 @@ pages = [
 'welcome.html',
 'giants.html',
 'desktop-ready.html',
-'office.html',
 'windows.html',
 'safe.html',
 'community.html'
 ]
 
 class Slideshow(threading.Thread):
-    def __init__(self, webviewObject, slideshowDirectory, language='', intervalSeconds=30, loopPages=True):
+    def __init__(self, webviewObject, slideshowDirectory, language='', intervalSeconds=30, loopPages=False):
         threading.Thread.__init__(self)
         self.browser = webviewObject
         self.loop = loopPages

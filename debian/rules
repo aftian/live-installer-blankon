@@ -1,7 +1,12 @@
 #!/usr/bin/make -f
+# -*- makefile -*-
+# Sample debian/rules that uses debhelper.
 
-CFLAGS=-Os -Wall -g
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+# This has to be exported to make some magic below work.
+export DH_OPTIONS
 
 %:
-	dh $@
-
+	dh $@ --with=python2

@@ -1,17 +1,33 @@
-Source: live-installer-blankon
+Source: live-installerblankon
 Section: admin
 Priority: optional
 Maintainer: Rahman Yusri Aftian <aftian@di.blankon.in>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Build-Depends: debhelper (>= 9),
+               python
+X-Python-Version: >= 2.7
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/aftian/live-installer-blankon.git
+Vcs-Browser: https://github.com/aftian/live-installer-blankon
 
-Package: live-installer-blankon
+Package: blankon-live-installer
 Architecture: all
-Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2, python-parted, python-webkit, gparted, inxi, python-geoip, python-qt4, python-opencv, python-numpy, imagemagick, python-imaging, grub-pc, grub2
+Depends: ${misc:Depends}, ${python:Depends}
+  , python (>= 2.7), python (<< 3)
+  , python-gtk2
+  , python-glade2
+  , python-webkit
+  , python-parted, parted, gparted
+  , python-qt4
+  , python-opencv
+  , python-imaging
+  , imagemagick
+  , isoquery
+  , desktop-file-utils
+  , shared-mime-info
+  , sysv-rc
+  , menu
+  , gdisk
+  , isoquery, iso-codes, locales, console-setup
+  , adduser
 Description: BlankOn Live Installer
  A BlankOn live installer
-
-Package: live-installer-slideshow-blankon
-Architecture: all
-Description: BlankOn Live Installer Slideshow
- A BlankOn slideshow for the live installer

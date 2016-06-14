@@ -1,4 +1,0 @@
-etc/* /etc/
-usr/* /usr/
-slideshow/usr/share/* /usr/share/
-po/* /usr/share/blankon/locale
